@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WithoutViewModel</string>
+    <string name="add_items_then_rotate">Add items, then rotate the screen.\nCount resets to zero.</string>
 </resources>
